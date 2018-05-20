@@ -1,0 +1,20 @@
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\Rent Cars.exe.config
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent Cars.vbprojResolveAssemblyReference.cache
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.CarForm.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.CustomersForm.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.Resources.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent Cars.vbproj.GenerateResource.Cache
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent Cars.xml
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\Rent Cars.exe
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\Rent Cars.pdb
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\Rent Cars.xml
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent Cars.exe
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent Cars.pdb
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.EmployesForm.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.Home.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.TableOfData.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.TransactionForm.resources
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\MySql.Data.dll
+D:\project\windows-project\Rent Cars\Rent Cars\bin\Debug\MySql.Data.xml
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.Login.resources
+D:\project\windows-project\Rent Cars\Rent Cars\obj\Debug\Rent_Cars.CarsBrand.resources
